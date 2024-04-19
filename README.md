@@ -18,6 +18,7 @@ Bootstrap
 </li>
 </ul>
 <h2>Languages</h2>
+<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
 <ul>
 <li>
 PHP
@@ -47,7 +48,6 @@ SQL Server
 MongDb
 </li>
 </ul>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
 <h2>Frameworks</h2>
 <ul>
 <li>
