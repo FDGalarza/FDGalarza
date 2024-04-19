@@ -4,6 +4,7 @@
 <a href="https://www.linkedin.com/in/fabricio-galarza-7bb174b9/" style="text-align:center; text-decoration:none"><h1> I'm Fabricio</h1></a>
 <hr>
 <img src="FGalarzaDev.jpeg" alt="Fabricio Galarza" width="200" height="300" style="border-radius:50%; border:5px solid rgb(45,50,59); margin-bottom:7px;">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fdgalarza&show_icons=true&locale=en&layout=compact" alt="fdgalarza" /></p>
 <h2>My Skills</h2>
 <h2>Frontend</h2>
 <ul>
@@ -56,7 +57,6 @@ Laravel
 Django
 </ul>
 <h2>Follow me</h2>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fdgalarza&show_icons=true&locale=en&layout=compact" alt="fdgalarza" /></p>
 <a href="[https://www.linkedin.com/in/fabricio-galarza-7bb174b9/](https://www.linkedin.com/in/fabricio-galarza-7bb174b9/)" style="text-align:center; text-decoration:none"><h3>Linkedin</h3></a>
 <a href="[https://www.linkedin.com/in/fabricio-galarza-7bb174b9/](https://www.instagram.com/fachogp?igsh=OXA0dGdqdTk5OHQ=)" style="text-align:center; text-decoration:none"><h3>Instagram</h3></a>
 
