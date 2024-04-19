@@ -7,7 +7,7 @@
 <h2>My Skills</h2>
 <h2>Frontend</h2>
 <button type="button" width="100" height="70">
-<strong>HTML5</strong>
+Boton
 </button>
 <button type="button" width="100" height="70" style="background-color: rgb(51, 69, 167); color: white; width: 50px;"><strong>CSS</strong></button>
 <button type="button" width="100" height="70" style="background-color: rgb(11, 149, 168); color: white; ">
