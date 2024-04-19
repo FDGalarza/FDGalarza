@@ -57,7 +57,7 @@
 <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
 </a>
 <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-<strong>Laravel</strong>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> 
 </a>
 </p>
 <h2>Follow me</h2>
