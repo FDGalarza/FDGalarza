@@ -29,23 +29,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 </a>
 </p>
-</a>
-</a>
-</a>
-<ul>
-<li>
-PHP
-</li>
-<li>
-Python
-</li>
-<li>
-C#
-</li>
-<li>
-PLSQL
-</li>
-</ul>
 <h2>Databases</h2>
 <ul>
 <li>
