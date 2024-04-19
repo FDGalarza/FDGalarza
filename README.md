@@ -54,7 +54,7 @@
 <h2>Frameworks</h2>
 <p>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-<img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
+Laravel 
 </a>
 <a href="https://laravel.com/" target="_blank" rel="noreferrer">
 <img src="https://worldvectorlogo.com/es/logo/laravel-2" alt="laravel" width="40" height="40"/>
