@@ -4,9 +4,7 @@
 <a href="https://www.linkedin.com/in/fabricio-galarza-7bb174b9/" style="text-align:center; text-decoration:none"><h1> I'm Fabricio</h1></a>
 <hr>
 <div style="padding:20px">
-<img src="FGalarzaDev.jpeg" alt="Fabricio Galarza" width="200" height="300" 
-style="border-radius:50%; border:5px solid rgb(45,50,59); margin-bottom:7px;">
-<!--Skills-->
+<img src="FGalarzaDev.jpeg" alt="Fabricio Galarza" width="200" height="300" style="border-radius:50%; border:5px solid rgb(45,50,59); margin-bottom:7px;">
 <h2>My Skills</h2>
 <div style="padding-left: 20px; padding-top: 15px">
 <div style="display: flex; padding-left: 15px;">
