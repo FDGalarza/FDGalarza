@@ -6,9 +6,17 @@
 <img src="FGalarzaDev.jpeg" alt="Fabricio Galarza" width="200" height="300" style="border-radius:50%; border:5px solid rgb(45,50,59); margin-bottom:7px;">
 <h2>My Skills</h2>
 <h2>Frontend</h2>
-<button type="button" width="100" height="70">
-Boton
-</button>
+<ul>
+<li>
+HTML5
+</li>
+<li>
+CSS
+</li>
+<li>
+Bootstrap
+</li>
+</ul>
 <button type="button" width="100" height="70" style="background-color: rgb(51, 69, 167); color: white; width: 50px;"><strong>CSS</strong></button>
 <button type="button" width="100" height="70" style="background-color: rgb(11, 149, 168); color: white; ">
 <strong>HTML5</strong>
