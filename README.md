@@ -3,7 +3,11 @@
 <!--header-->
 <a href="https://www.linkedin.com/in/fabricio-galarza-7bb174b9/" style="text-align:center; text-decoration:none"><h1> I'm Fabricio</h1></a>
 <hr>
-<img src="FGalarzaDev.jpeg" alt="Fabricio Galarza" width="200" height="300"  style="border-radius:50%; border:5px solid rgb(45,50,59); margin-bottom:7px;">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fdgalarza&show_icons=true&locale=en&layout=compact" alt="fdgalarza" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fdgalarza&show_icons=true&locale=en" alt="fdgalarza" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fdgalarza&" alt="fdgalarza" /></p>
 <h1>My Skills</h1>
 <h2>Frontend</h2>
 <p align="left"> 
