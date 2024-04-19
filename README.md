@@ -57,7 +57,8 @@ Django
 </ul>
 <h2>Follow me</h2>
 <a href="https://linkedin.com/in/fabricio galarza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fabricio galarza" height="30" width="40" /></a>
-<a href="[https://www.linkedin.com/in/fabricio-galarza-7bb174b9/](https://www.instagram.com/fachogp?igsh=OXA0dGdqdTk5OHQ=)" style="text-align:center; text-decoration:none"><h3>Instagram</h3></a>
+<a href="https://instagram.com/fachogp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fachogp" height="30" width="40" /></a>
+</p>
 
 
 
