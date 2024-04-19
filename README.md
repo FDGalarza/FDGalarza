@@ -4,7 +4,7 @@
 <a href="https://www.linkedin.com/in/fabricio-galarza-7bb174b9/" style="text-align:center; text-decoration:none"><h1> I'm Fabricio</h1></a>
 <hr>
 <img src="FGalarzaDev.jpeg" alt="Fabricio Galarza" width="200" height="300"  style="border-radius:50%; border:5px solid rgb(45,50,59); margin-bottom:7px;">
-<h2>My Skills</h2>
+<h1>My Skills</h1>
 <h2>Frontend</h2>
 <p align="left"> 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
@@ -18,7 +18,7 @@
 </a>
 </p>
 <h2>Languages</h2>
-<p>
+<p align="left">
 <a href="https://www.php.net" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
 </a>
@@ -30,20 +30,20 @@
 </a>
 </p>
 <h2>Databases</h2>
-<ul>
-<li>
-Oracle
-</li>
-<li>
-MySQL
-</li>
-<li>
-SQL Server
-</li>
-<li>
-MongDb
-</li>
-</ul>
+<p align="left">
+<a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> 
+</a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+</a>
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
+<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
+</a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+</a>
+</p>
 <h2>Frameworks</h2>
 <ul>
 <li>
