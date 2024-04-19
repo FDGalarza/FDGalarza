@@ -56,6 +56,7 @@ Laravel
 Django
 </ul>
 <h2>Follow me</h2>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fdgalarza&show_icons=true&locale=en&layout=compact" alt="fdgalarza" /></p>
 <a href="[https://www.linkedin.com/in/fabricio-galarza-7bb174b9/](https://www.linkedin.com/in/fabricio-galarza-7bb174b9/)" style="text-align:center; text-decoration:none"><h3>Linkedin</h3></a>
 <a href="[https://www.linkedin.com/in/fabricio-galarza-7bb174b9/](https://www.instagram.com/fachogp?igsh=OXA0dGdqdTk5OHQ=)" style="text-align:center; text-decoration:none"><h3>Instagram</h3></a>
 
