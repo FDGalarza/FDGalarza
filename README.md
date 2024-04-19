@@ -6,6 +6,7 @@
 <img src="FGalarzaDev.jpeg" alt="Fabricio Galarza" width="200" height="300"  style="border-radius:50%; border:5px solid rgb(45,50,59); margin-bottom:7px;">
 <h2>My Skills</h2>
 <h2>Frontend</h2>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 <ul>
 <li>
 HTML5
