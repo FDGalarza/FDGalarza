@@ -57,7 +57,7 @@
 <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
 </a>
 <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-<img src="https://iconos8.es/icons/set/laravel" alt="laravel" width="40" height="40"/>
+<img src="https://worldvectorlogo.com/es/logo/laravel-wordmark-1" alt="laravel" width="40" height="40"/>
 </a>
 </p>
 <h2>Follow me</h2>
