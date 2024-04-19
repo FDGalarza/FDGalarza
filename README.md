@@ -17,14 +17,21 @@ CSS
 Bootstrap
 </li>
 </ul>
-<button type="button" width="100" height="70" style="background-color: rgb(51, 69, 167); color: white; width: 50px;"><strong>CSS</strong></button>
-<button type="button" width="100" height="70" style="background-color: rgb(11, 149, 168); color: white; ">
-<strong>HTML5</strong>
-</button>
-<button type="button" width="100" height="70" style="background-color: rgb(220, 146, 236); color: white; ">
-<strong>Bootstrap</strong>
-</button>
 <h2>Languages</h2>
+<ul>
+<li>
+PHP
+</li>
+<li>
+Python
+</li>
+<li>
+C#
+</li>
+<li>
+PLSQL
+</li>
+</ul>
 <button type="button" width="100" height="70" style="background-color: rgb(165, 85, 236); color: white;">
 <strong>PHP</strong>
 </button>
