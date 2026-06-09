@@ -1,76 +1,96 @@
-### Hi there 👋
+# Fabricio Galarza
 
-<!--header-->
-<a href="https://www.linkedin.com/in/fabricio-galarza-7bb174b9/" style="text-align:center; text-decoration:none"><h1> I'm Fabricio</h1></a>
-<hr>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fdgalarza&show_icons=true&locale=en&layout=compact" alt="fdgalarza" /></p>
+**Senior Backend Engineer** &nbsp;·&nbsp; Python · Django · PostgreSQL · System Design
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fdgalarza&show_icons=true&locale=en" alt="fdgalarza" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fdgalarza&" alt="fdgalarza" /></p>
-<h1>My Skills</h1>
-<h2>Frontend</h2>
-<p align="left"> 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-</a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" padding="10px"/> 
-</a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-</a>
-</p>
-<h2>Languages</h2>
-<p align="left">
-<a href="https://www.php.net" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-</a>
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-</a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-</a>
-</p>
-<h2>Databases</h2>
-<p align="left">
-<a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="60" height="60"/> 
-</a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/>
-</a>
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="60" height="60"/>
-</a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/>
-</a>
-</p>
-<h2>Frameworks</h2>
-<p>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-<img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
-</a>
-<a href="https://laravel.com/" target="_blank" rel="noreferrer">
-<strong>Laravel</strong>
-</a>
-</p>
-<h2>Follow me</h2>
-<p>
-<a href="https://www.linkedin.com/in/fabricio-galarza-7bb174b9/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fabricio galarza" height="30" width="40" />
-</a>
-<a href="https://instagram.com/fachogp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fachogp" height="30" width="40" /></a>
-</p>
+Senior Backend Engineer with 8+ years of experience in production-grade systems, REST API design, and deep PostgreSQL optimization. I work at the intersection of engineering correctness and business constraints — analyzing execution plans, designing API contracts that evolve without breaking clients, and making architecture decisions that hold up in production over time.
 
+My background spans Python and PHP ecosystems, enterprise database migrations, and systems where reliability is a hard requirement, not a goal.
 
+---
 
+## What I'm Working On
 
+Building a personal backend platform for engineering workflow automation — Python backend, workflow-oriented architecture, Jira integration, and AI-assisted development using Claude Code and Spec Kit. Engineered as a production-quality reference implementation of clean backend architecture applied to real operational problems.
 
+Alongside this, deepening expertise in distributed systems reliability, backend platform engineering, and AI-augmented development workflows.
 
+---
 
+## Areas of Specialization
+
+**PostgreSQL & Data Engineering**  
+Query optimization, execution plan analysis, index engineering, and schema design for high-throughput, data-intensive workloads. Experience leading Oracle-to-PostgreSQL migrations on live, revenue-critical systems. SQL is not just a tool — it is a domain.
+
+**REST API Design & Backend Architecture**  
+API contract design with Django and Django REST Framework — versioning strategies, error surface design, and behavioral consistency at scale. Backend architecture for systems that need to evolve without breaking the services and teams that depend on them.
+
+**System Design & Distributed Systems**  
+Service decomposition, architectural trade-off analysis, and backend designs for distributed, high-volume environments. Emphasis on reliability, operational simplicity, and decisions that compound positively over time.
+
+**Technical Analysis & Engineering Process**  
+Requirements analysis, Agile environments, CI/CD pipelines, and cross-functional collaboration. Translating business constraints into sound engineering decisions — and communicating those decisions to both technical and non-technical stakeholders.
+
+---
+
+## Engineering Philosophy
+
+**Simplicity is earned, not assumed.**  
+Complex systems become complex for a reason. The goal is finding the simplest solution that handles production reality — not the simplest solution on paper.
+
+**The database is an architecture decision.**  
+Schema design, query patterns, and index strategy shape the entire system. Treating the data layer as an afterthought produces systems that cannot evolve without pain.
+
+**Maintainability is a form of respect.**  
+For the engineers who come after you, for the business that depends on the system, and for the decisions that will inevitably need to change. Code that cannot be understood cannot be trusted.
+
+---
+
+## Technical Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/DRF-092E20?style=flat-square&logo=django&logoColor=red)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+*Additional experience: Oracle · PL/SQL · PHP · Laravel · CI/CD · Jira*
+
+---
+
+## Featured Project
+
+### Engineering Workflow Platform *(In Development)*
+
+A backend platform for automating engineering workflows — from requirements management and project tracking to AI-assisted development operations.
+
+| | |
+|---|---|
+| **Backend** | Python · Django · workflow-oriented architecture |
+| **Integrations** | Jira · Claude Code · Spec Kit |
+| **Focus** | Engineering productivity · process automation · clean architecture |
+| **Design goal** | Production-quality reference implementation — not a prototype |
+
+---
+
+## Currently Exploring
+
+Distributed systems reliability patterns &nbsp;·&nbsp; Backend platform engineering &nbsp;·&nbsp; Workflow automation architecture &nbsp;·&nbsp; AI-assisted software development &nbsp;·&nbsp; System design at organizational scale
+
+---
+
+## GitHub Activity
+
+<img src="https://github-readme-stats.vercel.app/api?username=fdgalarza&show_icons=true&count_private=true&include_all_commits=true&hide=stars,prs,issues&hide_title=true&hide_border=true&icon_color=4169E1&text_color=333333" alt="GitHub activity" />
+
+---
+
+## Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabricio-galarza-7bb174b9/)
+
+---
+
+*Open to remote opportunities in Senior Backend Engineering, Staff Engineering, Tech Lead, and Principal Engineer roles — with distributed teams building serious backend systems.*
