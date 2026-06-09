@@ -81,12 +81,6 @@ Distributed systems reliability patterns &nbsp;·&nbsp; Backend platform enginee
 
 ---
 
-## GitHub Activity
-
-<img src="https://github-readme-stats.vercel.app/api?username=fdgalarza&show_icons=true&count_private=true&include_all_commits=true&hide=stars,prs,issues&hide_title=true&hide_border=true&icon_color=4169E1&text_color=333333" alt="GitHub activity" />
-
----
-
 ## Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabricio-galarza-7bb174b9/)
